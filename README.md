@@ -17,4 +17,15 @@ Lzw: 191, 202, 118, 189, 151  </br>
 Leetcode prob.: 1，27，104，237，258，136，263，7，125，234</br>
 Lj: 7, 125,  136, 258</br>
 Zsl: 1, 7, 136, 258, 263</br>
-Lzw: 27, 104, 234, 237, 263
+Lzw: 27, 104, 234, 237, 263</br>
+
+
+###Homework 五子棋  Date: 151021
+
+
+###Homework 4  Date: 151029
+10 problems all done:</br>
+
+
+###Homework 5  Date: 151105
+6 problems all done:</br>
